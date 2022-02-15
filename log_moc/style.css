@@ -1,5 +1,57 @@
-
-
 #wrapper{
     
 }
+
+
+.btn_netflix {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+	background-color:#f9f9f9;
+	border-radius:17px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	padding:14px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.btn_netflix:hover {
+	background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+	background-color:#e9e9e9;
+}
+.btn_netflix:active {
+	position:relative;
+	top:1px;
+}
+.btn_amz {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+	background-color:#f9f9f9;
+	border-radius:17px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	padding:14px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.btn_amz:hover {
+	background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+	background-color:#e9e9e9;
+}
+.btn_amz:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
